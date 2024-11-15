@@ -1,1 +1,1 @@
-KolokviumskipoMkd
+KolokviumskiMkd
