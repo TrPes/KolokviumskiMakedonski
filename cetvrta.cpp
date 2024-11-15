@@ -38,7 +38,7 @@ int main() {
         }
     }
 
-    // Печати го конечниот збир
+  
     cout << sum << endl;
 
     return 0;
